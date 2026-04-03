@@ -1,30 +1,34 @@
 # LeetCode / DSA Solutions
 This repository contains my solutions to Data Structures and Algorithms problems, primarily from LeetCode.
 
-I use this repo to:
-- improve problem-solving skills
-- practice writing clean and efficient code
-- document my thought process and optimisations
+This repository is used to:
+- Improve problem-solving skills
+- Practice writing clean and efficient code
+- Document my thought process and optimisations
 
-# What’s Included
-- Structured solutions by topic (arrays, strings, bit manipulation, etc.)
-- Each problem includes:
-  - Intuition
-  - Approach
-  - Time & Space Complexity
-- Focus on clean, readable, and optimal solutions
+## Current Focus
+- Solving LeetCode problems consistently
+- Strengthening algorithmic thinking and problem-solving skills
+- Identifying patterns across different problem types
 
-# Topics Covered (so far)
+## Topics Covered (so far)
 - Arrays & Strings
-- Hashing
+- Hashing (in progress)
 
-# Progress
-- Problems solved: 14 (easy)
-- Currently focusing on:
- - Python fundamentals
- - Problem-solving patterns
- - Optimisation techniques
+## Structure
+Each problem includes:
+- Intuition
+- Approach
+- Focus on writing clear, readable, and optimal solutions
+
+Solutions are organised by topic to improve recognition and revision.
+
+## Progress Updates
+### March 2026
+- Began solving Data Structures & Algorithms problems on LeetCode
+- Developed understanding of basic array and string problems
+- Introduced to bit manipulation concepts
+- Focused on writing clear and structured solutions
    
-# LeetCode Profile
-
-https://leetcode.com/u/raphaelnazareno/
+## LeetCode Profile
+[LeetCode Profile](https://leetcode.com/u/raphaelnazareno/)
