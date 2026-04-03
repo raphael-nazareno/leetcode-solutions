@@ -17,3 +17,14 @@ I use this repo to:
 # Topics Covered (so far)
 - Arrays & Strings
 - Hashing
+
+# Progress
+- Problems solved: 14 (easy)
+- Currently focusing on:
+ - Python fundamentals
+ - Problem-solving patterns
+ - Optimisation techniques
+   
+# LeetCode Profile
+
+https://leetcode.com/u/raphaelnazareno/
